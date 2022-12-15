@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import telebot
-from telebot import types
-import logging
+#import telebot
+#from telebot import types
+#import logging
 
 st.subheader("Web interface")
 
