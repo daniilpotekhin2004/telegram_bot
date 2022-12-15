@@ -5,11 +5,11 @@ import streamlit as st
 #from telebot import types
 #import logging
 
-st.subheader("Web interface")
+#st.subheader("Web interface")
 
 st.subheader("Telegram bot")
 
-st.write("You can find bot by this link t.me/Alcash1bot")
+#st.write("You can find bot by this link t.me/Alcash1bot")
 
 # In[ ]:
 
